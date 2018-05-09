@@ -1,0 +1,5 @@
+repo: c4839d2d6ccc6221277fb7e7f20d11be95d369b5
+node: 73d77eda235c1da16996169aa79492acac5c0417
+branch: default
+latesttag: Simage-1.7.0
+latesttagdistance: 1

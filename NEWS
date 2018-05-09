@@ -1,0 +1,42 @@
+New in v1.7.0 (2010-02-26):
+* Added CGImage based backend on OS X.
+* Added Quicktime based backend for older OS X versions.
+* Added GDI+ based backend for Windows.
+* Added Jasper/JPEG 2000 support.
+* Added Visual Studio project files.
+* Added Universal Binary support for OS X.
+* Added pkg-config description.
+* Added support for Windows 64-bit.
+* Fixed QImage backend to work with Qt4.
+* Fixed various memory leaks.
+* Fixed various build system and compile/link issues.
+
+New in v1.6.1 (2004-10-08):
+* Switched resize filter from Lorenz3 to Bell filter to avoid
+  some unwanted artifacts when resizing images.
+
+New in v1.6 (2003-12-12):
+* Added support for reading an image one line at a time
+* Added functions for setting external dynamic loader interface
+  (not currently in use)
+* Disabled dysfunctional guile support
+
+New in v1.5:
+* Extended streaming interface to support seeking in a stream
+* Added functions to set color component order
+
+New in v1.4:
+* Added stream interface used for reading audio
+
+New in v1.3 (2001-12-03):
+* Added simage_resize3d
+
+New in v1.2 (2001-06-01):
+* movie support
+* guile binding
+
+New in v1.1 (2001-02-05):
+* save capabilities
+
+New in v1.0 (2000-10-23):
+* first release
